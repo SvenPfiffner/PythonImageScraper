@@ -8,9 +8,6 @@ A lightweight python package for image scraping from web-urls
 - Save the repository in your project root via ```git clone https://github.com/SvenPfiffner/PythonImageScraper.git```
 - Install the required dependencies via ```pip install -r requirements.txt```
 
-### As python package
-- Install the package on your machine via ```test```
-
 ## Usage
 Create an image scraper to scrape a collection of urls for images. Then store the found images in an 'out' directory
 ```python
